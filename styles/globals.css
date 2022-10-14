@@ -24,3 +24,54 @@ a {
     background: black;
   }
 }
+
+/* button */
+.btn-warning {
+  background-color: #E0B973;
+}
+
+/* navbar */
+nav {
+  background-color: #14274A;
+}
+
+/* banner */
+.banner {
+  height: 100vh;
+  background-image: url(/img/banner.jpg);
+}
+
+/* bar */
+.bar {
+  width: 90%;
+  height: 100px;
+  margin-top: -330px;
+  /* z-index: 1; */
+  background-color: white;
+  position: absolute;
+}
+
+/* fasilitas */
+.svg {
+  padding-left: 60px;
+}
+
+/* contact */
+iframe {
+  width: 100%;
+  margin-bottom: -7px;
+}
+
+#contact {
+  margin-top: 90px;
+}
+
+/* footer */
+footer {
+  background-color: #14274A;
+}
+
+/* detail */
+.detail {
+  margin-top: 100px;
+}
